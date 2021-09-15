@@ -1,12 +1,12 @@
 package design_patterns.behavioral.strategy;
 
 import design_patterns.behavioral.strategy.behaviors.fly.FlyRocketPowered;
-import design_patterns.behavioral.strategy.duck.DecoyDuck;
-import design_patterns.behavioral.strategy.duck.MallardDuck;
-import design_patterns.behavioral.strategy.duck.ModelDuck;
-import design_patterns.behavioral.strategy.duck.RubberDuck;
+import design_patterns.behavioral.strategy.object.DecoyDuck;
+import design_patterns.behavioral.strategy.object.MallardDuck;
+import design_patterns.behavioral.strategy.object.ModelDuck;
+import design_patterns.behavioral.strategy.object.RubberDuck;
 
-public class DuckSimulator {
+public class ImplementationExample {
  
 	public static void main(String[] args) {
  

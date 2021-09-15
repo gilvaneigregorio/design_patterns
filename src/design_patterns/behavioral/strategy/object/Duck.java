@@ -1,4 +1,4 @@
-package design_patterns.behavioral.strategy.duck;
+package design_patterns.behavioral.strategy.object;
 
 import design_patterns.behavioral.strategy.behaviors.fly.FlyBehavior;
 import design_patterns.behavioral.strategy.behaviors.quack.QuackBehavior;
